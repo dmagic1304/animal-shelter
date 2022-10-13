@@ -1,0 +1,6 @@
+.animal1 {
+  box-sizing: border-box;
+  border: 1px black solid;
+  float: left;
+  width: 30%;
+}
