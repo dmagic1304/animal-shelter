@@ -22,6 +22,7 @@
   float: left;
   width: 30%;
   height: auto;
+  text-align: center;
 }
 
 .animal2 p {
@@ -29,6 +30,37 @@
   font-weight: 600;
 }
 
-.animal2 img {
+img {
   border: 1px green dotted;
+  display: block;
+  margin: auto;
+}
+
+.animal3 {
+  box-sizing: border-box;
+  border: 1px black solid;
+  float: left;
+  width: 30%;
+  height: auto;
+  text-align: center;
+}
+
+.animal3 p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font: 600;
+  
+}
+
+.animals div {
+ height: 400px;
+}
+
+.animals {
+  margin:auto;
+  width:80%;
+  height: auto;
+}
+
+body {
+  background-color: orange;
 }
