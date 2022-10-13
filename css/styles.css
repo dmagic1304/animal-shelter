@@ -3,4 +3,32 @@
   border: 1px black solid;
   float: left;
   width: 30%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.animal1 p {
+  font-weight: 600;
+  font-style: italic;
+}
+
+.title {
+  text-align: center;
+}
+
+
+.animal2 {
+  box-sizing: border-box;
+  border: 1px black solid;
+  float: left;
+  width: 30%;
+  height: auto;
+}
+
+.animal2 p {
+  font-family: cursive;
+  font-weight: 600;
+}
+
+.animal2 img {
+  border: 1px green dotted;
 }
